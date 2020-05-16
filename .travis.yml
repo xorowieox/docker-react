@@ -11,8 +11,8 @@ deploy:
   edge: true 
   provider: elasticbeanstalk
   region: "us-east-1"
-  app: "react-app"
-  env: "ReactApp-env"
+  app: "rowie"
+  env: "Rowie-env"
   bucket_name: "elasticbeanstalk-us-east-1-967195537723"
   bucket_path: "react-app"
   on:
