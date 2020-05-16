@@ -12,7 +12,7 @@ deploy:
   provider: elasticbeanstalk
   region: "us-east-1"
   app: "rowie"
-  env: "Rowie-env"
+  env: "Rowie-en"
   bucket_name: "elasticbeanstalk-us-east-1-967195537723"
   bucket_path: "react-app"
   on:
